@@ -11,3 +11,11 @@ This project aims to predict short-term stock price movement by combining:
 Unlike traditional models that rely only on price trends, this approach integrates structured numerical features with unstructured textual data to improve predictive performance.
 
 The project demonstrates an end-to-end Machine Learning pipeline involving data preprocessing, feature engineering, NLP embedding generation, model training, and evaluation.
+
+✅ Objective
+
+To build a classification model that predicts whether a stock will move Up or Down, using:
+
+Technical indicators derived from historical price data
+
+Context-aware embeddings generated from financial news
