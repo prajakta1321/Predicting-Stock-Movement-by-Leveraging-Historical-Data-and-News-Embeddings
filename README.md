@@ -77,8 +77,3 @@ Hyperparameter tuning (if applicable)
 6. Model Evaluation
 
 Accuracy
-
-Precision
-
-Recall
-
