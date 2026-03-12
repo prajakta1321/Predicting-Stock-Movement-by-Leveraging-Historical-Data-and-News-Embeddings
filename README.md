@@ -77,3 +77,23 @@ Hyperparameter tuning (if applicable)
 6. Model Evaluation
 
 Accuracy
+
+
+
+✅ Tech Stack
+
+Python
+
+Pandas
+
+NumPy
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
+
+NLP embedding techniques
+
+Jupyter Notebook
