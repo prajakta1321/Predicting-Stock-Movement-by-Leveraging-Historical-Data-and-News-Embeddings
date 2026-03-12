@@ -97,3 +97,12 @@ Seaborn
 NLP embedding techniques
 
 Jupyter Notebook
+
+✅ Results
+
+1. Models trained with both historical indicators and news embeddings showed improved predictive performance compared to price-only models.
+
+2. Textual sentiment provided measurable signal for short-term movement.
+
+3. Feature engineering played a critical role in model stability.
+
